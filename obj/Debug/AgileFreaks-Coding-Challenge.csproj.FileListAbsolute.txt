@@ -4,3 +4,4 @@ C:\Users\andre\source\repos\AgileFreaks-Coding-Challenge\bin\Debug\AgileFreaks-C
 C:\Users\andre\source\repos\AgileFreaks-Coding-Challenge\obj\Debug\AgileFreaks-Coding-Challenge.csproj.CoreCompileInputs.cache
 C:\Users\andre\source\repos\AgileFreaks-Coding-Challenge\obj\Debug\AgileFreaks-Coding-Challenge.exe
 C:\Users\andre\source\repos\AgileFreaks-Coding-Challenge\obj\Debug\AgileFreaks-Coding-Challenge.pdb
+C:\Users\andre\source\repos\AgileFreaks-Coding-Challenge\obj\Debug\AgileFreaks-Coding-Challenge.csproj.AssemblyReference.cache
