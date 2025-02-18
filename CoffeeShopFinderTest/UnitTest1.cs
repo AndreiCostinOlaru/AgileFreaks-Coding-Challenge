@@ -1,6 +1,7 @@
 ﻿using AgileFreaks_Coding_Challenge.Services;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
+using System.Threading.Tasks;
 
 namespace CoffeeShopFinderTest
 {
@@ -8,7 +9,7 @@ namespace CoffeeShopFinderTest
     public class DataFetcherTests
     {
         [TestMethod]
-        public async void FetchDataAsync_ReturnsData()
+        public async Task FetchDataAsyncTest()
         {
             //Arrange
             var url = "https://raw.githubusercontent.com/Agilefreaks/test_oop/master/coffee_shops.csv";
