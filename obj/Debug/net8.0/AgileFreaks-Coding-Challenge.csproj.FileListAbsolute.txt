@@ -1,0 +1,14 @@
+C:\Users\andre\source\repos\AgileFreaks-Coding-Challenge\bin\Debug\net8.0\AgileFreaks-Coding-Challenge.exe
+C:\Users\andre\source\repos\AgileFreaks-Coding-Challenge\bin\Debug\net8.0\AgileFreaks-Coding-Challenge.dll.config
+C:\Users\andre\source\repos\AgileFreaks-Coding-Challenge\bin\Debug\net8.0\AgileFreaks-Coding-Challenge.deps.json
+C:\Users\andre\source\repos\AgileFreaks-Coding-Challenge\bin\Debug\net8.0\AgileFreaks-Coding-Challenge.runtimeconfig.json
+C:\Users\andre\source\repos\AgileFreaks-Coding-Challenge\bin\Debug\net8.0\AgileFreaks-Coding-Challenge.dll
+C:\Users\andre\source\repos\AgileFreaks-Coding-Challenge\bin\Debug\net8.0\AgileFreaks-Coding-Challenge.pdb
+C:\Users\andre\source\repos\AgileFreaks-Coding-Challenge\obj\Debug\net8.0\AgileFreaks-Coding-Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\AgileFreaks-Coding-Challenge\obj\Debug\net8.0\AgileFreaks-Coding-Challenge.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\AgileFreaks-Coding-Challenge\obj\Debug\net8.0\AgileFreaks-Coding-Challenge.sourcelink.json
+C:\Users\andre\source\repos\AgileFreaks-Coding-Challenge\obj\Debug\net8.0\AgileFreaks-Coding-Challenge.dll
+C:\Users\andre\source\repos\AgileFreaks-Coding-Challenge\obj\Debug\net8.0\refint\AgileFreaks-Coding-Challenge.dll
+C:\Users\andre\source\repos\AgileFreaks-Coding-Challenge\obj\Debug\net8.0\AgileFreaks-Coding-Challenge.pdb
+C:\Users\andre\source\repos\AgileFreaks-Coding-Challenge\obj\Debug\net8.0\AgileFreaks-Coding-Challenge.genruntimeconfig.cache
+C:\Users\andre\source\repos\AgileFreaks-Coding-Challenge\obj\Debug\net8.0\ref\AgileFreaks-Coding-Challenge.dll
