@@ -14,7 +14,6 @@ namespace AgileFreaks_Coding_Challenge
         {
             if(args.Length != 3)
             {
-                foreach(var arg in args) { Console.WriteLine(arg); }
                 Console.WriteLine("Arguments should be: < user x coordinate > < user y coordinate > < shop data url >");
                 return;
             }

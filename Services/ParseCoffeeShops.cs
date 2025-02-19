@@ -24,7 +24,7 @@ namespace AgileFreaks_Coding_Challenge.Services
                     !double.TryParse(parts[1], System.Globalization.NumberStyles.Float, CultureInfo.InvariantCulture, out double y) ||
                     !double.TryParse(parts[2], System.Globalization.NumberStyles.Float, CultureInfo.InvariantCulture, out double x))
                 {
-                    Console.WriteLine("Invalid data format: " + line);
+                    Console.WriteLine("Invalid data format for line: " + line);
                     Environment.Exit(11);
                 }
                 else

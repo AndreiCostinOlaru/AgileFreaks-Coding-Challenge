@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\andre\\source\\repos\\AgileFreaks-Coding-Challenge\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ECFFEF87-3596-4743-8078-8974E9C16AF9}|AgileFreaks-Coding-Challenge.csproj|c:\\users\\andre\\source\\repos\\agilefreaks-coding-challenge\\agilefreaks-coding-challenge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{ECFFEF87-3596-4743-8078-8974E9C16AF9}|AgileFreaks-Coding-Challenge.csproj|solutionrelative:agilefreaks-coding-challenge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECFFEF87-3596-4743-8078-8974E9C16AF9}|AgileFreaks-Coding-Challenge.csproj|c:\\users\\andre\\source\\repos\\agilefreaks-coding-challenge\\agilefreaks-coding-challenge.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{ECFFEF87-3596-4743-8078-8974E9C16AF9}|AgileFreaks-Coding-Challenge.csproj|solutionrelative:agilefreaks-coding-challenge.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECFFEF87-3596-4743-8078-8974E9C16AF9}|AgileFreaks-Coding-Challenge.csproj|c:\\users\\andre\\source\\repos\\agilefreaks-coding-challenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ECFFEF87-3596-4743-8078-8974E9C16AF9}|AgileFreaks-Coding-Challenge.csproj|C:\\Users\\andre\\source\\repos\\AgileFreaks-Coding-Challenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECFFEF87-3596-4743-8078-8974E9C16AF9}|AgileFreaks-Coding-Challenge.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECFFEF87-3596-4743-8078-8974E9C16AF9}|AgileFreaks-Coding-Challenge.csproj|c:\\users\\andre\\source\\repos\\agilefreaks-coding-challenge\\services\\parsecoffeeshops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECFFEF87-3596-4743-8078-8974E9C16AF9}|AgileFreaks-Coding-Challenge.csproj|solutionrelative:services\\parsecoffeeshops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECFFEF87-3596-4743-8078-8974E9C16AF9}|AgileFreaks-Coding-Challenge.csproj|c:\\users\\andre\\source\\repos\\agilefreaks-coding-challenge\\services\\findclosestcoffeeshops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECFFEF87-3596-4743-8078-8974E9C16AF9}|AgileFreaks-Coding-Challenge.csproj|solutionrelative:services\\findclosestcoffeeshops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECFFEF87-3596-4743-8078-8974E9C16AF9}|AgileFreaks-Coding-Challenge.csproj|c:\\users\\andre\\source\\repos\\agilefreaks-coding-challenge\\services\\distancecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECFFEF87-3596-4743-8078-8974E9C16AF9}|AgileFreaks-Coding-Challenge.csproj|solutionrelative:services\\distancecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECFFEF87-3596-4743-8078-8974E9C16AF9}|AgileFreaks-Coding-Challenge.csproj|C:\\Users\\andre\\source\\repos\\AgileFreaks-Coding-Challenge\\services\\datafetcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECFFEF87-3596-4743-8078-8974E9C16AF9}|AgileFreaks-Coding-Challenge.csproj|solutionrelative:services\\datafetcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECFFEF87-3596-4743-8078-8974E9C16AF9}|AgileFreaks-Coding-Challenge.csproj|c:\\users\\andre\\source\\repos\\agilefreaks-coding-challenge\\models\\coffeeshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECFFEF87-3596-4743-8078-8974E9C16AF9}|AgileFreaks-Coding-Challenge.csproj|solutionrelative:models\\coffeeshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECFFEF87-3596-4743-8078-8974E9C16AF9}|AgileFreaks-Coding-Challenge.csproj|C:\\Users\\andre\\source\\repos\\AgileFreaks-Coding-Challenge\\agilefreaks-coding-challenge.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{ECFFEF87-3596-4743-8078-8974E9C16AF9}|AgileFreaks-Coding-Challenge.csproj|solutionrelative:agilefreaks-coding-challenge.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AgileFreaks-Coding-Challenge",
-              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\AgileFreaks-Coding-Challenge\\AgileFreaks-Coding-Challenge.csproj",
-              "RelativeDocumentMoniker": "AgileFreaks-Coding-Challenge.csproj",
-              "ToolTip": "C:\\Users\\andre\\source\\repos\\AgileFreaks-Coding-Challenge\\AgileFreaks-Coding-Challenge.csproj",
-              "RelativeToolTip": "AgileFreaks-Coding-Challenge.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-18T16:59:21.766Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FindClosestCoffeeShops.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\AgileFreaks-Coding-Challenge\\Services\\FindClosestCoffeeShops.cs",
+              "RelativeDocumentMoniker": "Services\\FindClosestCoffeeShops.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\AgileFreaks-Coding-Challenge\\Services\\FindClosestCoffeeShops.cs",
+              "RelativeToolTip": "Services\\FindClosestCoffeeShops.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:06:13.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DistanceCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\AgileFreaks-Coding-Challenge\\Services\\DistanceCalculator.cs",
+              "RelativeDocumentMoniker": "Services\\DistanceCalculator.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\AgileFreaks-Coding-Challenge\\Services\\DistanceCalculator.cs",
+              "RelativeToolTip": "Services\\DistanceCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:05:20.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CoffeeShop.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\AgileFreaks-Coding-Challenge\\Models\\CoffeeShop.cs",
+              "RelativeDocumentMoniker": "Models\\CoffeeShop.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\AgileFreaks-Coding-Challenge\\Models\\CoffeeShop.cs",
+              "RelativeToolTip": "Models\\CoffeeShop.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:04:34.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ParseCoffeeShops.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\AgileFreaks-Coding-Challenge\\Services\\ParseCoffeeShops.cs",
+              "RelativeDocumentMoniker": "Services\\ParseCoffeeShops.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\AgileFreaks-Coding-Challenge\\Services\\ParseCoffeeShops.cs",
+              "RelativeToolTip": "Services\\ParseCoffeeShops.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T17:37:39.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataFetcher.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\AgileFreaks-Coding-Challenge\\Services\\DataFetcher.cs",
+              "RelativeDocumentMoniker": "Services\\DataFetcher.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\AgileFreaks-Coding-Challenge\\Services\\DataFetcher.cs",
+              "RelativeToolTip": "Services\\DataFetcher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T17:31:26.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "AgileFreaks-Coding-Challenge",
               "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\AgileFreaks-Coding-Challenge\\AgileFreaks-Coding-Challenge.csproj",
               "RelativeDocumentMoniker": "AgileFreaks-Coding-Challenge.csproj",
               "ToolTip": "C:\\Users\\andre\\source\\repos\\AgileFreaks-Coding-Challenge\\AgileFreaks-Coding-Challenge.csproj",
               "RelativeToolTip": "AgileFreaks-Coding-Challenge.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-18T17:00:09.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T17:00:09.07Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\AgileFreaks-Coding-Challenge\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\andre\\source\\repos\\AgileFreaks-Coding-Challenge\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABEAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T16:58:23.745Z",
               "EditorCaption": ""
